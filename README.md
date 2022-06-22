@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @plutusgame
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Lottery ADA Game (LAG) is a Plutus Smart Contract that enable users to play by sending 1 ADA.  Any user can play as many times as he/she wants to increase the probabilities to be selected. 
+
+This contract is based on pure randomness which means that the random player will be the winner at every cycle.  
+
+Each cycle will last 2.5 days or 2 winners in 1 epoch, but this is a something that can be set at any interval. After each cycle a winner will be selected and the funds will be sent directly to the user wallets and the cycle will start again for the next day.
+--->
